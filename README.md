@@ -14,10 +14,10 @@
 | 第一章 | 求状态值 | 已完成 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter01) |
 | 第二章 | 动态规划 |  | [笔记]() |
 | 第三章 | 蒙特卡洛方法 | 已完成 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter03Monte-Carlo) |
-| 第四章 | 随机近似 |  |  |
+| 第四章 | 随机近似 |  | [笔记]() |
 | 第五章 | 时序差分 | 已完成 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter05Temporal-Difference) |
-| 第六章 | Dyna-Q |  |  |
-| 第七章 | DQN |  |  |
-| 第八章 | 改进的DQN |  |  |
-| 第九章 | 策略梯度 |  |  |
-| 第十章 | 演员-评论家算法 |  |  |
+| 第六章 | Dyna-Q |  | [笔记]() |
+| 第七章 | DQN | 进行中 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter07DQN) |
+| 第八章 | 改进的DQN |  | [笔记]() |
+| 第九章 | 策略梯度 |  | [笔记]() |
+| 第十章 | 演员-评论家算法 |  | [笔记]() |
