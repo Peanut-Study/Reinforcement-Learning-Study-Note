@@ -1,7 +1,7 @@
 # Reinforcement-Learning-Study-Note
 这是我的强化学习笔记
 <br>This is my reinforcement learning study note
-<br>本硕非计算机相关专业，自学强化学习，欢迎评论交流，感谢批评指正
+<br>研二非计算机相关专业，自学强化学习，欢迎评论交流，感谢批评指正
 ## 参考资料
 | 序号 | 资料名称 | 链接 |
 |---|---|---|
