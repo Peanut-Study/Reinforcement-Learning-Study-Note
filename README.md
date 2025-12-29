@@ -17,7 +17,7 @@
 | 第四章 | 随机近似 |  |  |
 | 第五章 | 时序差分 | 🟢已完成 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter05Temporal-Difference) |
 | 第六章 | Dyna-Q |  |  |
-| 第七章 | DQN | 进行中 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter07DQN) |
+| 第七章 | DQN | 🟢已完成 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter07DQN) |
 | 第八章 | 改进的DQN | 🟡进行中 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter08Improved-DQN) |
 | 第九章 | 策略梯度 | 🟢已完成 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter09Policy-Gradient) |
 | 第十章 | 演员-评论家算法 | 🟡进行中 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter10Actor-Critic) |
