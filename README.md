@@ -8,6 +8,7 @@
 | 1 | 吴恩达机器学习 | [视频](https://www.bilibili.com/video/BV1owrpYKEtP/?spm_id_from=333.337.search-card.all.click&vd_source=fea2c3c140631e78a73b6d714dcf9f71) |
 | 2 | 西湖大学赵世钰《强化学习的数学原理》 | [视频](https://www.bilibili.com/video/BV1sd4y167NS/?spm_id_from=333.337.search-card.all.click&vd_source=fea2c3c140631e78a73b6d714dcf9f71) [资料](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) |
 | 3 | 上海交通大学张伟楠《动手学强化学习》 | [资料](https://hrl.boyuai.com/chapter/intro) |
+| 4 | 蘑菇书强化学习 | [资料](https://datawhalechina.github.io/easy-rl/#/) |
 ## 笔记目录
 | 章节 | 简介 | 状态🔴🟡🟢 | 链接 |
 | ---- | ---- | ---- | ---- |
