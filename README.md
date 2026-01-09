@@ -22,7 +22,7 @@
 | 第八章 | 改进的DQN | 🟡进行中 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter08Improved-DQN) |
 | 第九章 | 策略梯度 | 🟢已完成 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter09Policy-Gradient) |
 | 第十章 | 演员-评论家算法 | 🟡进行中 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter10Actor-Critic) |
-| 第十一章 | 信任区域策略优化 | 🟡进行中 |  |
+| 第十一章 | 信任区域策略优化 |  |  |
 | 第十二章 | 近端策略优化 | 🟢已完成 | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter12PPO) |
 | 第十三章 | 深度确定性策略梯度 |  |  |
 | 第十四章 | Soft Actor-Critic |  |  |
