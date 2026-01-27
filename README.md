@@ -26,5 +26,5 @@
 | 第十二章 | Proximal Policy Optimization |  | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter12PPO) |
 | 第十三章 | Deep Deterministic Policy Gradient |  | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter13DDPG) |
 | 第十四章 | Soft Actor-Critic |  |  |
-| 第十五章 | Imitation Learning |  |  |
+| 第十五章 | Imitation Learning |  | [笔记](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main/Chapter15Imitation%20Learning) |
 | 第十六章 | Model Predicted Control |  |  |
